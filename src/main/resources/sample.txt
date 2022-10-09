@@ -1,0 +1,8 @@
+name,age,salary,position,dateOfBirth -- metaInformation
+Igor,18,2000,middle,1990-10-10
+Ivan,20,1000,junior,1989-10-01
+Olga,19,1500,senior,1999-10-10
+Misha,21,3000,senior,1995-10-10
+Petya,25,2500,middle,1991-10-10
+Sonya,24,1300,junior,1987-10-10
+Kolya,23,1100,middle,1984-10-10

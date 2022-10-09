@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sample>
+    <record>
+        <id>1</id>
+        <name>Tessie</name>
+        <position>Payment Adjustment Coordinator</position>
+        <age>18</age>
+        <dateOfBirth>1985-01-09</dateOfBirth>
+        <salary>2461</salary>
+    </record>
+    <record>
+        <id>8</id>
+        <name>Idell</name>
+        <position>Account Representative III</position>
+        <age>29</age>
+        <dateOfBirth>1988-01-31</dateOfBirth>
+        <salary>3023</salary>
+    </record>
+    <record>
+        <id>10</id>
+        <name>Dorian</name>
+        <position>Librarian</position>
+        <age>25</age>
+        <dateOfBirth>1985-07-08</dateOfBirth>
+        <salary>4367</salary>
+    </record>
+    <record>
+        <id>8</id>
+        <name>Tymon</name>
+        <position>Analog Circuit Design manager</position>
+        <age>29</age>
+        <dateOfBirth>1986-12-29</dateOfBirth>
+        <salary>1386</salary>
+    </record>
+    <record>
+        <id>7</id>
+        <name>Derrick</name>
+        <position>Project Manager</position>
+        <age>19</age>
+        <dateOfBirth>1983-09-30</dateOfBirth>
+        <salary>4184</salary>
+    </record>
+    <record>
+        <id>7</id>
+        <name>Adolpho</name>
+        <position>Physical Therapy Assistant</position>
+        <age>27</age>
+        <dateOfBirth>1983-12-31</dateOfBirth>
+        <salary>1404</salary>
+    </record>
+    <record>
+        <id>8</id>
+        <name>Osbourn</name>
+        <position>Structural Analysis Engineer</position>
+        <age>27</age>
+        <dateOfBirth>1981-01-18</dateOfBirth>
+        <salary>2717</salary>
+    </record>
+    <record>
+        <id>7</id>
+        <name>Daveen</name>
+        <position>VP Accounting</position>
+        <age>22</age>
+        <dateOfBirth>1988-12-18</dateOfBirth>
+        <salary>3545</salary>
+    </record>
+    <record>
+        <id>6</id>
+        <name>Colby</name>
+        <position>Social Worker</position>
+        <age>25</age>
+        <dateOfBirth>1989-08-19</dateOfBirth>
+        <salary>2115</salary>
+    </record>
+    <record>
+        <id>2</id>
+        <name>Susan</name>
+        <position>Help Desk Operator</position>
+        <age>22</age>
+        <dateOfBirth>1987-04-05</dateOfBirth>
+        <salary>3049</salary>
+    </record>
+</sample>
